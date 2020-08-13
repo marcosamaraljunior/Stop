@@ -1,0 +1,29 @@
+A: Azitromicina
+B: Budesonida
+C: Captopril
+D: Diazepam
+E: Estriol
+F: Fluoxetina
+G: Glibenclamida
+H: Haloperidol
+I: Ibuprofeno
+J: Janumet
+K: Kaloba
+L: Levodopa
+M: Metformina
+N: Nicotina
+O: Omeprazol
+P: Prednisona
+Q: Quinolona
+R: Rifampicina
+S: Salbutamol
+T: Tuberculina
+U: Ulcinax
+V: Varfarina
+W: Wartec
+X: Xavier
+Y: Yaz
+Z: Zanidip
+
+
+

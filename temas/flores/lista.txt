@@ -1,0 +1,29 @@
+A: Azaleia
+B: Bromélia
+C: Crisantemo
+D: Dalia
+E: Estrelicia
+F: Flor De Lis
+G: Gardenia
+H: Hibisco
+I: Íris
+J: Jasmim
+K: Kaizuka
+L: Lirio
+M: Magnolia
+N: Nandina
+O: Orquidea
+P: Petunia
+Q: Quaresmeira
+R: Rosa Do Deserto
+S: Saudade
+T: Tulipa
+U: Unha De Gato
+V: Vanilla
+W: Washingtonia
+X: Xantorreia
+Y: Yuca
+Z: Zinias
+
+
+

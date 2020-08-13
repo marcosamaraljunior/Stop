@@ -1,0 +1,26 @@
+A: Açai
+B: Banana
+C: Cacau
+D: Damasco
+E: Embaúba
+F: Framboesa
+G: Graviola
+H: Heisteria
+I: Ingá
+J: Jenipapo
+K: Kiwi
+L: Lichia
+M: Mangaba
+N: Nectarina
+O: Olho-De-Boi
+P: Pequi
+Q: Quina
+R: Romã
+S: Sapucaia
+T: Toranja
+U: Umbu
+V: Veludo
+W: 
+X: Xixá
+Y: Yamamomo
+Z: Zitrone

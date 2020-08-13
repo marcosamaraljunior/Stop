@@ -1,0 +1,26 @@
+A: Alemão
+B: Brasileiro
+C: Canadiano
+D: Dinamarquês
+E: Espanhol
+F: Francês
+G: Grego
+H: Holandês
+I: Indiano
+J: Japonês
+K:
+L:
+M: Mandarim
+N: Norueguês
+O:
+P: Português
+Q:
+R: Russo
+S: Sueco
+T: Tailandês
+U: Ucraniano
+V:
+W:
+X:
+Y:
+Z:

@@ -1,0 +1,31 @@
+A: Amparo 
+B: Batatais 
+C: Caruaru
+D: Diadema 
+E: Eldorado 
+F: Formoso 
+G: Guarapari 
+H: Horizontina 
+I: Ituano
+J: Jacareí 
+K: 
+L: Lages 
+M: Macaé 
+N: Natal 
+O: Oiapoque 
+P: Pacaembu 
+Q: Quilombo 
+R: Registro 
+S: Sumaré 
+T: Tupã 
+U: Uberlândia 
+V: Valinhos 
+W: Wanderlândia 
+X: Xaxim 
+Y: 
+Z: Zacarias 
+
+
+
+
+

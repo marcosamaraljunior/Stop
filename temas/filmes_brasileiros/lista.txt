@@ -1,0 +1,27 @@
+A: Antônia 
+B: Bacurau
+C: Carandiru 
+D: Desenrola 
+E: Elena 
+F: Fulaninha 
+G: Ganga Bruta
+H: Hoje 
+I: Iracema 
+J: Jango 
+K: 
+L: Lua De Cristal
+M: Macunaíma 
+N: Noite Vazia
+O: Olga 
+P: Pindorama 
+Q: Querô 
+R: Revoada 
+S: Senhora 
+T: Tropa De Elit
+U: Ubirajara 
+V: Vidas Nuas
+W: 
+X: Xuxa Popstar
+Y: 
+Z: Zero-Treze
+

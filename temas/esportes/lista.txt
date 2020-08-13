@@ -1,0 +1,26 @@
+A: Acrobacias
+B: Boxe
+C: Canoagem
+D: Dardos
+E: Esgrima
+F: Futebol
+G: Golfe
+H: Hipismo
+I: Iatismo
+J: Judô
+K: Korfball
+L: Lacrosse
+M: Maratona
+N: Netball
+O: Oina
+P: Parkour 
+Q: Quizzing
+R: Remo
+S: Skysurfing
+T: Torball
+U: Ultramaratona
+V: Vigoro
+W: Windsurf
+X: Xare
+Y: Yak Polo
+Z: Zumba

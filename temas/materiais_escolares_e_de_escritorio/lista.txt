@@ -1,0 +1,30 @@
+A: Apagador
+B: Borracha
+C: Caneta
+D: Diario
+E: Esquadro
+F: Fichario
+G: Giz De Cera
+H: Horario
+I: Imã
+J: Jogo
+K: 
+L: Lapiseira
+M: Mesa
+N: Notebook
+O: Oculos
+P: Papel
+Q: Quadro Negro
+R: Regua
+S: Scanner
+T: Tinta
+U: Uniforme
+V: Ventilador
+W: Webcam
+X: Xicara
+Y: Yagi
+Z: Ziper
+
+
+
+

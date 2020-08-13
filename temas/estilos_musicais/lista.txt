@@ -1,0 +1,26 @@
+A: Apala
+B: Bongo
+C: Criolla
+D: Disco
+E: Eletrônica
+F: Flamenco
+G: Gafiera
+H: Hiplife
+I: Indie
+J: Joropo
+K: Klapa
+L: Lavani
+M: Marcha
+N: Neo Folk
+O: Ópera
+P: Pop
+Q: Qawwali
+R: Rumba
+S: Soul
+T: Tango
+U: Urban
+V: Vanerao
+W: Wadaiko
+X: Xoomi
+Y: Yarabi
+Z: Zouk

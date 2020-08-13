@@ -1,0 +1,26 @@
+A: Ametista
+B: Bordô
+C: Castanho
+D: Dourado
+E: Esmeralda
+F: Ferrugem
+G: Grená
+H: Herbal
+I: Índigo
+J: Jambo
+K: 
+L: Lima
+M: Marfim
+N: Naval
+O: Ocre
+P: Púrpura
+Q: Quantum
+R: Roxo
+S: Salmão
+T: Turquesa
+U: Urucum
+V: Violeta
+W: 
+X: 
+Y: 
+Z: 

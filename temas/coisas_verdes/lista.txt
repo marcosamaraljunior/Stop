@@ -1,0 +1,27 @@
+A: Abobrinha
+B: Brocolis
+C: Chicoria
+D: 
+E: Escarola
+F: 
+G: Grama
+H: 
+I: 
+J: Jilo
+K: 
+L: Limao
+M: Milho
+N: 
+O:
+P: Pimentao
+Q: 
+R: Repolho
+S: Salsa
+T: Tomate
+U: 
+V: Vagem
+W: 
+X:
+Y:
+Z:
+

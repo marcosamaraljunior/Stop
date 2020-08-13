@@ -1,0 +1,31 @@
+A: Alicate
+B: Broca
+C: Canivete
+D: Desempenadeira
+E: Escada
+F: Furadeira
+G: Grifo
+H: Holofote
+I: Imã
+J: Jarra
+K: 
+L: Lixadeira
+M: Maçarico
+N: Nivel
+O: Oculos De Proteçao
+P: Parafuso
+Q: Quebra-Nozes
+R: Rebite
+S: Serra
+T: Torquimetro
+U: Urna
+V: Verruma
+W: 
+X: Xale
+Y: 
+Z: Ziper
+
+
+
+
+

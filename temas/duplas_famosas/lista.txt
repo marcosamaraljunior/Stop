@@ -1,0 +1,30 @@
+A: Abel E Caim
+B: Bruno E Marrone
+C: Chico Rey E Paraná
+D: Duduca E Dalvan
+E: Edson E Hudson
+F: Fernando E Sorocaba
+G: Gino E Geno
+H: Henrique E Diego
+I: Israel E Rodolffo
+J: Jorge E Mateus
+K: Kaio E Bruninho
+L: Leandro E Leonardo
+M: Munhoz E Mariano
+N: 
+O: Os Levitas
+P: Pedro E Tiago
+Q: 
+R: Rick E Renner
+S: Simone E Simaria
+T: Tonico E Tinoco
+U: Ugo E Bruno
+V: Victor E Léo
+W: Wilian E Renan,
+X: Xuxa E Sasha
+Y: Yudi E Priscila
+Z: Ze Neto E Cristiano
+
+
+
+

@@ -1,0 +1,29 @@
+A: Anhangá
+B: Boitata
+C: Curupira
+D: Duendes
+E: Exu
+F: Fenix
+G: Gaia
+H: Hidromel
+I: Iara
+J: 
+K: Kalunga
+L: Lobisomem
+M: Mula Sem Cabeça
+N: Negrinho Do Pastoreio
+O: Ogdoade
+P: Pisadeira
+Q: Quimera
+R: Ragnarok
+S: Saci Pererê
+T: Tuat
+U: Urd
+V: Vitoria Regia
+W: Wendigo 
+X: 
+Y: 
+Z: Zumbi Dos Palmares
+
+
+

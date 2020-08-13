@@ -1,0 +1,26 @@
+A: Arsenal
+B: Barcelona
+C: Chelsea
+D: Danúbio
+E: Everton
+F: Flamengo
+G: Grêmio
+H: Hamburgo
+I: Internazionale
+J: Juventus
+K: Kashiwa Reysol
+L: Liverpool
+M: Manchester 
+N: Newell’S Old Boys
+O: Olimpia
+P: Palmeiras
+Q: Quilmes
+R: Real Madrid
+S: Sevilla
+T: Tigre
+U: Universidad Catolica
+V: Vasco
+W: West Ham
+X: Xv De Jau
+Y: Ypiranga
+Z: Zamora

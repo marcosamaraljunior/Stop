@@ -1,0 +1,27 @@
+A: Angola
+B: Bolívia
+C: Camboja
+D: Dominica
+E: Etiópia
+F: Fiji
+G: Gana
+H: Honduras
+I: Iêmen
+J: Jordânia
+K: Kosovo
+L: Laos
+M: Malta
+N: Namibia
+O: Omã
+P: Paraguai
+Q: Quênia
+R: Ruanda
+S: Serra Leoa
+T: Turquia
+U: Uganda
+V: Vaticano
+W: Washington
+X: Xangai
+Y: Yokohama
+Z: Zambia
+

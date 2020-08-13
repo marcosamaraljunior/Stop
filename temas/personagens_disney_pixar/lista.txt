@@ -1,0 +1,29 @@
+A: Alladin
+B: Bolota
+C: Carros
+D: Dory
+E: Elsa
+F: Fera
+G: Gelado
+H: Hercules
+I: Iago
+J: Jasmine
+K: Kenai
+L: Leitão
+M: Mickey Mouse
+N: Nemo
+O: Olaf
+P: Pato Donald
+Q: Quasimodo
+R: Relampago Mcqueen
+S: Simba
+T: Tio Patinhas
+U: Ursinho Pooh
+V: Vagabundo
+W: Wendy
+X: Xavier
+Y: Yoda
+Z: Ze Carioca
+
+
+

@@ -1,0 +1,23 @@
+
+A: Abraham Lincoln
+B: Benjamim Franklin
+C: Cleópatra
+D: Dom Pedro II
+E: Elizabeth II
+F: Fidel Castro
+G: George Washington
+H: Homero
+I: Isaac Newton
+J: Júlio Cesar
+K: Karl Marx
+L: Leonardo Da Vinci
+M: Marco Polo
+N: Napoleão Bonaparte
+O: Oswaldo Cruz
+P: Pedro Álvares Cabral
+R: Raul Seixas
+S: Salvador Dalí
+T: Tarsila Do Amaral
+U: Ulysses Guimarães
+V: Vasco da Gama
+W: Walt Disney

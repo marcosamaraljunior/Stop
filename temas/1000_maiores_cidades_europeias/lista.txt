@@ -1,0 +1,29 @@
+A: Atenas
+B: Berlim
+C: Cambridge
+D: Dortmund
+E: Estocolmo
+F: Frankfurt
+G: Genova
+H: Hamburgo
+I: Iasi
+J: Jerez 
+K: Kiev
+L: Lyon
+M: Munique
+N: Napoles
+O: Oslo
+P: Paris
+Q: Queluz
+R: Roma
+S: Sófia
+T: Turim
+U: Utretch
+V: Varsovia
+W: Wuppertal
+X: 
+Y: Yakutsk
+Z: Zurique
+
+
+

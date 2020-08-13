@@ -1,0 +1,26 @@
+A: Agradável
+B: Bonita
+C: Covarde
+D: Divertida
+E: Esperta
+F: Feliz
+G: Gentil
+H: Honesta
+I: Inteligente
+J: Justa
+K: 
+L: Linda
+M: Meiga
+N: Nobre
+O: Otimista
+P: Positiva
+Q: Querida 
+R: Risonha
+S: Sacana
+T: Trabalhadora
+U: Única
+V: Virtuosa
+W: Workaholic 
+X: Xexelenta
+Y: Yellow
+Z: Zelosa

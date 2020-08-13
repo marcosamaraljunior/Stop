@@ -1,0 +1,32 @@
+A: Angry Birds
+B: Bela Adormecida
+C: Cavaleiro
+D: Dinossauro
+E: Elsa
+F: Faraó
+G: Guerreiro
+H: Halloween
+I: Indio
+J: Jack Sparrow
+K: 
+L: Ladybug
+M: Mulher Elastica
+N: Noiva Cadaver
+O: 
+P: Pirata
+Q: Quebra Nozes 
+R: Robin
+S: Super Homem
+T: Tartaruga Ninja
+U: Urso
+V: Vampiro
+W: 
+X: 
+Y: 
+Z: Zorro
+
+
+
+
+
+

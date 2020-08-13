@@ -1,0 +1,27 @@
+A: Animagus
+B: Bellatrix Lestrange
+C: Cedric Digory
+D: Dementador
+E: Expecto Patronum
+F: Fidelius
+G: Gryffindor
+H: Hermione
+I: Imperio
+J: James Potter
+K: Kreacher
+L: Lumos
+M: Minerva
+N: Nymphadora
+O: Ollivander's
+P: Petter Petigrew
+Q: Quidditch
+R: Regulus Black
+S: Snape
+T: Theodore Nott
+U: Unicornio
+V: Vira-Tempo
+W: Wingardium Leviosa
+X: Xenophilius Lovegood
+Y: Yule
+Z: Zoo
+

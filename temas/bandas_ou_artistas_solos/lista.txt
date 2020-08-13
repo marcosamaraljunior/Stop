@@ -1,0 +1,34 @@
+A: André
+S: Sardet
+B: Beyoncé
+C: Celine
+D: Dion
+D: D.A.M.A.S.
+E: Enrique
+I: Iglésias
+F: Filipe
+P: Pinto
+G: GABRIEL PENSADOR
+H: HELOA
+I: IUDY
+J: João
+P: Pedro
+P: Pais
+K: KLB
+L: Luís
+R: Repressas
+M: Marisa
+N: NANDO REIS
+O: O
+P: PERL JAM
+Q: Queens
+R: Romana
+S: S
+T: Toni
+C: Carreira
+U: U
+V: V
+W: W
+X: X
+Y: Y
+Z: Z

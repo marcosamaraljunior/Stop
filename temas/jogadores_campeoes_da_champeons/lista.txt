@@ -1,0 +1,31 @@
+A: Alisson
+B: Bale
+C: Casemiro
+D: Di Maria
+E: Etoo
+F: Fernando Torres
+G: Gerard
+H: Harry Kane
+I: Isco
+J: Juan Pablo Sorin
+K: Kaka
+L: Lewandowski
+M: Messi
+N: Neymar
+O: Ohea
+P: Pirlo
+Q: Quaresma
+R: Ronaldo
+S: Seedorf
+T: Totti
+U: Ulreich
+V: Varane
+W: Willian
+X: Xavi
+Y: Yaya Toure
+Z: Zarraga
+
+
+
+
+

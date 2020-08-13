@@ -1,0 +1,32 @@
+A: Adesivo
+B: Bateria
+C: Corrente Alternada
+D: Calculadora
+E: Elastico
+F: Facebook
+G: Jacuzzi
+H: Helicoptero
+I: Imã
+J: Jet Ski
+K: 
+L: Lampada
+M: Manometro
+N: Navio
+O: Oculos
+P: Penicilina
+Q: 
+R: Relogio
+S: Satelite
+T: Telescopio
+U: Urna
+V: Videogame
+W: Webcam
+X: Xerox
+Y: Yashica
+Z: Zabumba
+
+
+
+
+
+

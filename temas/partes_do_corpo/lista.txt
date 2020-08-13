@@ -1,0 +1,28 @@
+A: Apêndice
+B: Bigorna 
+C: Cerebelo
+D: Diafragma
+E: Estribo
+F: Falange
+G: Genitália
+H: Hipófise 
+I: Íris
+J: Joelho
+K: Knee 
+L: Língua
+M: Mama
+N: Nádegas
+O: Ovário
+P: Pâncreas
+Q: Quadril
+R: Rim
+S: Sacro
+T: Tíbia
+U: Uretra
+V: Vértebras
+W: Wernicke 
+X: 
+Y: 
+Z: Zigomático
+
+
